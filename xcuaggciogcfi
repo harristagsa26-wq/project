@@ -1,0 +1,28 @@
+[33mcommit 88813c412685130c0329a646951dff3f2a7cd0cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: harristagsa26@gmail.com <harristagsa26@gmail.com>
+Date:   Wed Oct 21 10:18:22 2026 +0800
+
+    Changes of codes
+
+[1mdiff --git a/file b/file[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4b80bc4[m
+[1m--- /dev/null[m
+[1m+++ b/file[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mTagsa Harris[m
+
+[33mcommit cc4c0217ab72666f581d347002dd871ec2518699[m
+Author: harristagsa26@gmail.com <harristagsa26@gmail.com>
+Date:   Wed Oct 21 09:57:50 2026 +0800
+
+    Add new files
+
+[1mdiff --git a/File b/File[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c7b7a99[m
+[1m--- /dev/null[m
+[1m+++ b/File[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mAGUSSSSSS[m
+[32m+[m
